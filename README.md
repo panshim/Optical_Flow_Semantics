@@ -5,8 +5,10 @@
 Semantic Segmentation](https://link.springer.com/chapter/10.1007/978-3-319-46604-0_12)* with some simplification.
 * Some data is remained in the folder ./devkit, in case someone wants to run the evaluation code directly. The running guidance can be found in [the Appendix Section of our report]()
 ## 2. Implementation Details
+* The overall optical flow estimation program could be devided into four stages, as shown below. For more details, please refer to our report and references.\
 ![pseudo_code](https://github.com/panshim/Optical_Flow_Semantics/blob/main/description_docs/program%20structure.jpg?raw=true)
 
+* PMBP algorithm is 
 ![PMBP_UML](https://github.com/panshim/Optical_Flow_Semantics/blob/main/description_docs/algorithm_diagram.jpg?raw=true)
 
 ## 3. Results
